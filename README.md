@@ -14,9 +14,13 @@
 
 [Lazarus Group](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220506)
 
-[Addresses](https://github.com/dspytdao/Eth_Data/blob/main/LazarusGroup.txt)
-[Dune Query](https://dune.com/queries/1321434)
-[Collected Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusTxs1321434.csv)
+[Addresses List](https://github.com/dspytdao/Eth_Data/blob/main/LazarusGroup.txt)
+
+[Collected Weekly Deposits Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusTxs1321434.csv)
+
+[Collected Weekly Withdrawals Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusWeeklyWithdrawalsTxs1322493.csv)
+
+[Collected Tabular Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusTabularTxs1322519.csv)
 
 [Collected ERC721 Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusNFTsTxs1322436.csv)
 
