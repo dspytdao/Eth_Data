@@ -1,17 +1,24 @@
 # Eth_Data
 
-OpenseaPhishing437073.csv - OpenSea Minting Scam related to 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74
+## Collected Data
 
-OpenseaPhishing1320652.csv - All ERC721 NFTs transactions to 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74
+### 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74 address data
 
-Dashboard for all:
-https://dune.com/pfedprog/os-stolen-nfts
+[OpenseaPhishing437073.csv](https://github.com/dspytdao/Eth_Data/blob/main/OpenseaPhishing437073.csv) - OpenSea **Minting** Scam related to 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74
+
+[OpenseaPhishing1320652.csv](https://github.com/dspytdao/Eth_Data/blob/main/OpenseaPhishing1320652.csv) - **All** ERC721 NFTs transactions to 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74
+
+[Dashboard for all](https://dune.com/pfedprog/os-stolen-nfts)
+
+### Lazarus OFAC sanctions data
 
 [Lazarus Group](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220506)
 
-[Addresses](LazarusGroup.txt)
+[Addresses](https://github.com/dspytdao/Eth_Data/blob/main/LazarusGroup.txt)
 [Dune Query](https://dune.com/queries/1321434)
-[Collected Data](LazarusTxs1321434.csv)
+[Collected Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusTxs1321434.csv)
+
+[Collected ERC721 Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusNFTsTxs1322436.csv)
 
 ## Further Resources
 
