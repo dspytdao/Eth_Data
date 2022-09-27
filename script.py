@@ -21,4 +21,4 @@ data = data['data']['get_result_by_result_id']
 df = pd.DataFrame(data)
 
 final_df = pd.DataFrame(df.data.tolist(), index= df.index)
-final_df.to_csv('OpenseaPhishing437073.csv')
+final_df.to_csv('OpenseaPhishing437073.csv', index=False)
