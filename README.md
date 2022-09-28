@@ -16,13 +16,23 @@
 
 [Collected ERC721 Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusNFTsTxs1322436.csv)
 
-## Etherscan Flagged Latest DataSet
+## Etherscan Flagged Latest Data Set
 
 [Weekly Aggregated Etherscan Flagged Latest DataSet](https://github.com/dspytdao/Eth_Data/blob/main/EtherScanFLagged1322553.csv)
 
-[Aggregated by REceiver Address](https://github.com/dspytdao/Eth_Data/blob/main/EtherScanFlaggedByAddress322768.csv)
+[Aggregated by Receiver Address](https://github.com/dspytdao/Eth_Data/blob/main/EtherScanFlaggedByAddress322768.csv)
 
 [Tabular Etherscan Flagged Latest DataSet](https://github.com/dspytdao/Eth_Data/blob/main/EtherScanFlaggedTabular1322553.csv)
+
+## Phishing&Scams going through Bitly Data Set
+
+[Weekly Aggregated Bitly Deposits DataSet](https://github.com/dspytdao/Eth_Data/blob/main/EtherScanFLagged1322553.csv)
+
+[Tabular Bitly Deposits DataSet](https://github.com/dspytdao/Eth_Data/blob/main/bitlyDepositsTabular810.csv)
+
+[Weekly Aggregated Bitly Withdrawals DataSet](https://github.com/dspytdao/Eth_Data/blob/main/bitlyWithdrawalsWeekly815.csv)
+
+[Tabular Bitly Withdrawals DataSet](https://github.com/dspytdao/Eth_Data/blob/main/bitlyWithdrawalsTabular812.csv)
 
 ### 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74 Scam address data
 
