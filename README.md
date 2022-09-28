@@ -53,3 +53,11 @@
 [Eth-Phish/Hack (Phish/Hack in Ethereum)](https://paperswithcode.com/dataset/eth-phish-hack)
 Introduced by Zhou et al. in Behavior-aware Account De-anonymization on Ethereum Interaction Graph
 The sampled 2-hop subgraphs centered on Phish/Hack accounts on the Ethereum Interaction graph.
+
+## Data Visualisation
+
+[North Korean Lazarus Group Dashboard](https://dune.com/pfedprog/lazarus)
+
+[Etherscan Phishing Accounts Addresses Dune Analytics](https://dune.com/pfedprog/eth-sent-to-flagged-etherscam-addresses)
+
+[Bitly Fraud Dune Analytics](https://dune.com/pfedprog/phishingandscams-going-through-bitly)
