@@ -14,12 +14,12 @@ dune.login()
 # fetch token
 dune.fetch_auth_token()
 
-result_id = dune.query_result_id(query_id=1322519)
+result_id = dune.query_result_id(query_id=1322768)
 
 data = dune.query_result(result_id)
 data = data['data']['get_result_by_result_id']
 
 df = pd.DataFrame(data)
 
-final_df = pd.DataFrame(df.data.tolist(), index= df.index)
-final_df.to_csv('LazarusTabularTxs1322519.csv', index=False)
+final_df = pd.DataFrame(df.data.tolist(), index=df.index)
+final_df.to_csv('EtherScanFlaggedByAddress1322768.csv', index=False)

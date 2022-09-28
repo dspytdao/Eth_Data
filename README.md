@@ -1,14 +1,6 @@
-# Eth_Data
+# Ethereum_Data. Honest Protocol.
 
 ## Collected Data
-
-### 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74 address data
-
-[OpenseaPhishing437073.csv](https://github.com/dspytdao/Eth_Data/blob/main/OpenseaPhishing437073.csv) - OpenSea **Minting** Scam related to 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74
-
-[OpenseaPhishing1320652.csv](https://github.com/dspytdao/Eth_Data/blob/main/OpenseaPhishing1320652.csv) - **All** ERC721 NFTs transactions to 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74
-
-[Dashboard for all](https://dune.com/pfedprog/os-stolen-nfts)
 
 ### Lazarus OFAC sanctions data
 
@@ -24,7 +16,27 @@
 
 [Collected ERC721 Transactions Data](https://github.com/dspytdao/Eth_Data/blob/main/LazarusNFTsTxs1322436.csv)
 
-## Further Resources
+## Etherscan Flagged Latest DataSet
+
+[Weekly Aggregated Etherscan Flagged Latest DataSet](https://github.com/dspytdao/Eth_Data/blob/main/EtherScanFLagged1322553.csv)
+
+[Aggregated by REceiver Address](https://github.com/dspytdao/Eth_Data/blob/main/EtherScanFlaggedByAddress322768.csv)
+
+[Tabular Etherscan Flagged Latest DataSet](https://github.com/dspytdao/Eth_Data/blob/main/EtherScanFlaggedTabular1322553.csv)
+
+### 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74 Scam address data
+
+[OpenseaPhishing437073.csv](https://github.com/dspytdao/Eth_Data/blob/main/OpenseaPhishing437073.csv) - OpenSea **Minting** Scam related to 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74
+
+[OpenseaPhishing1320652.csv](https://github.com/dspytdao/Eth_Data/blob/main/OpenseaPhishing1320652.csv) - **All** ERC721 NFTs transactions to 0x3E0DeFb880cd8e163baD68ABe66437f99A7A8A74
+
+## More Collected DataSets
+
+[Premium Dataset. Hourly Crypto Market Anomaly Score: Ocean Protocol](https://market.oceanprotocol.com/asset/did:op:0d3c8845df538dff98a08e0cc9d572cf4703d9324eb5887e91e9c8d97474e8ae)
+
+[Ethereum NFT dataset on Kaggle](https://www.kaggle.com/datasets/simiotic/ethereum-nfts)
+
+[Ethereum Fraud Detection Dataset on Kaggle](https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset)
 
 [Etherscan Phishing Accounts Addresses Data](https://etherscan.io/accounts/label/phish-hack?subcatid=undefined&size=100&start=0&col=3&order=desc)
 
